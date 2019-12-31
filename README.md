@@ -6,6 +6,6 @@ The first phase is the training phase where the module is trained with all possi
 
 The second phase is to test the module. This can be done by providing a testing voice to detect the gender. This testing voice properties are extracted and compared with the properties of both classes. Then based on the scores, the dender is decided.
 
-This is refered from https://appliedmachinelearning.blog/2017/06/14/voice-gender-detection-using-gmms-a-python-primer/
+This was refered from https://appliedmachinelearning.blog/2017/06/14/voice-gender-detection-using-gmms-a-python-primer/
 
-The Dataset is collected from https://www.dropbox.com/s/sqg7az7fja6rqfw/pygender.zip?dl=0
+The Dataset was collected from https://www.dropbox.com/s/sqg7az7fja6rqfw/pygender.zip?dl=0
